@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá, eu sou o Antonio Mariano 👋
 
-<!--
-**Antonio-marianodados/Antonio-marianodados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚒 Bombeiro Civil em transição de carreira para Ciência de Dados e IA.
 
-Here are some ideas to get you started:
+Atualmente curso Ciência de Dados e Inteligência Artificial na UNISUAM e busco aplicar minha experiência em gestão de riscos e métricas operacionais no mundo da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e Ferramentas:
+
+* Banco de Dados: SQL (Certificado Udemy)
+
+    Visualização de Dados: Looker (Autodidata)
+
+    Linguagens: Python (Em aprendizado)
+
+🎯 Objetivo:
+
+Atuar em projetos de análise de dados, automação de processos e inteligência de negócios.
